@@ -190,3 +190,5 @@ Don't forget to leave a star for this project if you found the solution helpful.
 * Render - server side
 * Netlify - client side
 
+![Image](https://github.com/user-attachments/assets/839b590b-c0d6-4b4d-836b-a800d6e8d9e3)
+
