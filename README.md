@@ -38,7 +38,7 @@ The School Management System is a web-based application built using the MERN (Mo
 # Installation
 
 ```sh
-git clone https://github.com/Yogndrr/MERN-School-Management-System.git
+git clone https://github.com/Shashank-Varidelly/Edu-Track.git
 ```
 Open 2 terminals in separate windows/tabs.
 
